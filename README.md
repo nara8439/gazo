@@ -1,2 +1,2 @@
 # gazo
-the first step in studies..........................
+
